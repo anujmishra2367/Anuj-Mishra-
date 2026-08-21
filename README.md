@@ -4,7 +4,7 @@
 ---
 
 ### 🎓 About Me
-- 🎓 Currently pursuing **BCA (Bachelor of Computer Applications)** from **Manipal University Jaipur** (Online Mode)
+- 🎓 Currently pursuing **BCA (Bachelor of Computer Applications)** from **Manipal University Jaipur** 
 - 💻 Interested in **Web Development, Programming, and Data Structures & Algorithms**
 - 🌱 Currently learning: **[e.g., Java / Python / Web Development]**
 - 🎯 2026 Passout — actively preparing for **entry-level developer and IT roles**
@@ -21,7 +21,7 @@
 
 **Tools:** ![Git](https://img.shields.io/badge/-Git-black) ![VS Code](https://img.shields.io/badge/-VSCode-blue) ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 
-*(Edit the badges above to match what you actually know — remove ones that don't apply, add more from [shields.io](https://shields.io))*
+
 
 ---
 
