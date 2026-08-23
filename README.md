@@ -34,20 +34,10 @@
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description | Tech Used |
-|---|---|---|
-| [Project Name](#) | Short one-line description of what it does | HTML, CSS, JS |
-| [Project Name](#) | Short one-line description of what it does | Java |
-| [Project Name](#) | Short one-line description of what it does | Python |
-
-*(Replace with your actual pinned repos — add project links once you push them)*
-
----
 
 
 
----
+
 
 ### 🎯 Currently Targeting
 Actively applying for **Junior Developer / Software Trainee / IT Support** roles at companies like TCS, Wipro, Cognizant, HCLTech, and Accenture, with a focus on Delhi NCR.
