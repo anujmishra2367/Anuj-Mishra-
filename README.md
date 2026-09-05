@@ -24,6 +24,7 @@ My approach is simple:
 > **Learn → Build → Solve → Improve → Repeat 🔁**
 
 ```text
+### 
 🎓 BCA Graduate
         ↓
 💻 Software Development
@@ -36,27 +37,32 @@ My approach is simple:
         ↓
 🎯 MCA → Software Engineering
 
+ 
 
-🛠️ Technical Skills
-💻 Programming
 
-Python Java C++ SQL
+### 🛠️ Technical Skills
 
-🌐 Web & Development
+### It will appear on GitHub like:
 
-HTML CSS JavaScript Git GitHub VS Code
+**About Me**
 
-📊 Data & Analytics
+> Learn → Build → Solve → Improve → Repeat 🔁
 
-Pandas NumPy Matplotlib Seaborn
+🎓 BCA Graduate  
+↓  
+💻 Software Development  
+↓  
+🧠 DSA & Problem Solving  
 
-🤖 Machine Learning / Computer Vision
+---
 
-OpenCV Image Processing Feature Extraction
+## 🛠️ Technical Skills
 
-🧠 Computer Science
+So the key is:
 
-Data Structures Algorithms OOP DBMS Android Fundamentals
+```markdown
+---
+## 🛠️ Technical Skills
 
 
 🎓 Education
