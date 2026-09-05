@@ -18,7 +18,7 @@
 ---
 
 ### 🎓 About Me
-- 🎓 Final-year **BCA (Computer Applications, Computer Science)** student at **Manipal University Jaipur** (Online Mode)
+- 🎓 Final-year **BCA ( Computer Science)** student at **Manipal University Jaipur** 
 - 💻 Building practical projects across **full-stack web development, computer vision, and data analytics**
 - 🧪 Completed a **Web Development Internship at CodSoft**
 - 🌱 Currently strengthening: **Data Structures & Algorithms, Next.js, System Design fundamentals**
