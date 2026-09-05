@@ -13,239 +13,62 @@
 
 ---
 
-## 🧑‍💻 About Me
 
-I'm **Anuj Mishra**, a **BCA graduate from Manipal University Jaipur** with a strong interest in software development, data analytics, problem solving, and emerging technologies.
-
-I enjoy turning ideas into practical projects and continuously improving my programming and computer science fundamentals.
-
-My approach is simple:
-
-> **Learn → Build → Solve → Improve → Repeat 🔁**
-
-```text
-### 
-🎓 BCA Graduate
-        ↓
-💻 Software Development
-        ↓
-🧠 DSA & Problem Solving
-        ↓
-📊 Data Analytics
-        ↓
-🤖 Machine Learning
-        ↓
-🎯 MCA → Software Engineering
-
- 
-
-
-### 🛠️ Technical Skills
-
-### It will appear on GitHub like:
-
-**About Me**
-
-> Learn → Build → Solve → Improve → Repeat 🔁
-
-🎓 BCA Graduate  
-↓  
-💻 Software Development  
-↓  
-🧠 DSA & Problem Solving  
 
 ---
 
-## 🛠️ Technical Skills
+### 🎓 About Me
+- 🎓 Final-year **BCA (Computer Applications, Computer Science)** student at **Manipal University Jaipur** (Online Mode)
+- 💻 Building practical projects across **full-stack web development, computer vision, and data analytics**
+- 🧪 Completed a **Web Development Internship at CodSoft**
+- 🌱 Currently strengthening: **Data Structures & Algorithms, Next.js, System Design fundamentals**
+- 🎯 Actively looking for **Junior Developer / Software Trainee** roles across **Delhi, Gurugram, Noida**
+- 📫 Reach me at: **anujmishra2243@gmail.com**
 
-So the key is:
-
-```markdown
 ---
-## 🛠️ Technical Skills
 
+### 🛠️ Skills
 
-🎓 Education
-🎓 Bachelor of Computer Applications — BCA
+**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 
-Manipal University Jaipur
-2023 — 2026
+**Web:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
 
-Focus Areas:
+**Data & CV:** ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 
-Programming · Data Structures · Database Systems · Software Development
+**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-📚 Bachelor of Arts — Economics
+---
 
-Mangalayatan University
-2024 — 2027
+### 🚀 Featured Projects
 
-Developing an additional foundation in economics, analytical thinking, and decision-making.
+| Project | Description | Tech Used |
+|---|---|---|
+| [Cinematic Portfolio](https://github.com/anujmishra2367/cinematic-portfolio) | A full-stack Next.js portfolio site with scroll-driven video and animations | Next.js, React, GSAP |
+| [Fake Currency Note Detection](https://github.com/anujmishra2367/fake-note-detection) | Image-processing tool that screens currency notes against 4 authenticity heuristics | Python, OpenCV, NumPy |
+| [Retail Sales Data Analysis](https://github.com/anujmishra2367/sales-data-analytics) | Business insights from 2,000+ transactions — revenue trends, regional performance, discount impact | Python, Pandas, Seaborn |
+| [Netflix Clone](https://github.com/anujmishra2367/netflix-clone) | Full-stack Netflix UI clone with a Node.js backend proxying the TMDB API | Node.js, JavaScript, TMDB API |
 
-🚀 Featured Projects
-📊 01 — Retail Sales Data Analysis
+---
 
-Python · Pandas · Matplotlib · Seaborn
+### 📊 GitHub Stats
 
-Analyzed 2,000+ retail transactions to identify meaningful business patterns.
-
-🔍 Key Analysis
-📈 Revenue trends
-🌎 Regional performance
-👥 Customer behavior
-💳 Payment preferences
-🏆 Top-performing categories
-💰 Discount & sales performance
-💡 Outcome
-
-Converted raw transactional data into useful business insights and
-decision-oriented summaries.
-
-🔗 GitHub:
-https://github.com/anujmishra2367/sales-data-analysis
-
-💵 02 — Fake Currency Note Detection
-
-Python · OpenCV · Image Processing
-
-Developed an image-processing based system for detecting potential counterfeit
-currency using multiple visual characteristics.
-
-🔬 Techniques
-📐 Aspect Ratio
-🔍 Laplacian / Sharpness Analysis
-🎨 Color Histogram
-🖼️ Edge Density
-🤖 Confidence-Based Scoring
-💡 Outcome
-
-Combined multiple image features into an overall confidence score instead of
-depending on a single visual characteristic.
-
-🔗 GitHub:
-https://github.com/anujmishra2367/fake-note-detection
-
-📱 03 — Android Implicit Intent Demo
-
-Java · Android Studio
-
-A practical Android application demonstrating how an application can launch
-external applications through Implicit Intents.
-
-⚙️ Concepts Used
-Activities
-Implicit Intents
-Android Manifest
-URL handling
-External application launching
-
-🔗 GitHub:
-https://github.com/anujmishra2367/android-implicit-intent-demo
-
-🏆 Achievements
-🎓 Academic
-✅ Completed BCA from Manipal University Jaipur
-📚 Built projects in Data Analytics, Computer Vision & Android
-🧠 Developed a strong foundation in programming and computer science
-💻 Technical
-🚀 Built practical projects and maintained them on GitHub
-📊 Analyzed 2,000+ transactional records
-🤖 Implemented image-processing techniques for counterfeit-note detection
-🧠 Continuously practicing Data Structures & Algorithms
-🔧 Using Git & GitHub for project development and version control
-🧠 DSA & Problem Solving
-
-I'm actively strengthening my problem-solving skills for technical interviews,
-competitive examinations, and real-world software development.
-
-Current Focus
-Arrays
-Strings
-Hashing
-Searching
-Sorting
-Linked Lists
-Stacks
-Queues
-Recursion
-Trees
-Graphs
-Dynamic Programming
-
-🎯 Goal: Build strong problem-solving fundamentals and become a better
-software engineer.
-
-🎯 Future Goals
-🚀 Short Term
- Strengthen Python & Java
- Master SQL
- Solve 100+ DSA problems
- Build production-quality projects
- Improve Git & GitHub workflow
- Strengthen Data Analytics
- Explore Full-Stack Development
-🎓 Medium Term
- Pursue MCA
- Build advanced software projects
- Learn System Design fundamentals
- Contribute to Open Source
- Strengthen Machine Learning
- Prepare for Software Engineering interviews
-🏆 Long Term
-
-Become a strong Software Engineer capable of designing, developing and
-maintaining reliable real-world software systems.
-
-📈 Developer Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anujmishra2367&show_icons=true&hide_border=true&theme=transparent" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujmishra2367&layout=compact&hide_border=true&theme=transparent" height="165"/> </p>
-🔥 Coding Consistency
-<p align="center"> <img src="https://streak-stats.demolab.com?user=anujmishra2367&hide_border=true&theme=transparent" /> </p>
-🐍 Contribution Graph
-<p align="center"> <img src="https://raw.githubusercontent.com/anujmishra2367/anujmishra2367/output/github-contribution-grid-snake.svg" /> </p>
-🌱 Currently Learning
-🐍 Advanced Python
-☕ Java
-🗄️ SQL & Database Systems
-🧠 Data Structures & Algorithms
-📊 Data Analytics
-🤖 Machine Learning
-🌐 Full-Stack Development
-☁️ Modern Development Tools
-💼 Career Direction
-
-I'm interested in opportunities related to:
-
-💻 Software Development
-🐍 Python Development
-☕ Java Development
-🌐 Full-Stack Development
-📊 Data Analytics
-🤖 Machine Learning
-🧠 Software Engineering
-
-I'm looking for an environment where I can:
-
-Build → Learn → Take Responsibility → Solve Problems → Grow
-
-🤝 Let's Connect
-<p align="center"> <a href="mailto:anujmishra2243@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/anujmishra_01"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/anujmishra2367"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
 <p align="center">
-💻 Code. Build. Learn. Repeat. 🔁
+  <img src="https://github-readme-stats.vercel.app/api?username=anujmishra2367&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujmishra2367&theme=radical" alt="GitHub Streak" height="165">
+</p>
 
-⭐ Thanks for visiting my profile!
+---
 
-</p> ```
+### 🎯 Currently Targeting
+Actively applying for **Junior Developer, Software Trainee, and Technical Support** roles at companies like TCS, Wipro, Cognizant, HCLTech, and Accenture, focused on **Delhi NCR**.
 
+---
 
+### 🔗 Connect with Me
+[![Portfolio](https://img.shields.io/badge/-Portfolio-2F6E52?logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/anujmishra01)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:anujmishra2243@gmail.com)
 
+---
 
-
-
-
-
-
-
-
-
-
-
+<p align="center"><i>⭐️ Building one real project at a time.</i></p>
